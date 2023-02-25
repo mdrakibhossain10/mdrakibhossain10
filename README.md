@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakib3903&label=Profile%20views&color=0e75b6&style=flat" alt="rakib3903" /> </p>
 
+<p align="left"> <a href="https://twitter.com/rakib3903" target="blank"><img src="https://img.shields.io/twitter/follow/rakib3903?logo=twitter&style=for-the-badge" alt="rakib3903" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rakib3903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rakib3903" height="30" width="40" /></a>
@@ -19,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib3903&show_icons=true&locale=en&layout=compact" alt="rakib3903" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakib3903&show_icons=true&locale=en" alt="rakib3903" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib3903&" alt="rakib3903" /></p>
